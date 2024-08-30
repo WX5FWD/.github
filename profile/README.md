@@ -4,4 +4,4 @@ Serving for more than thirty years, the WX5FWD SKYWARN™ team are volunteer rad
 
 Weather spotters provide what's called "ground truth" to the National Weather Service and emergency weather management. Spotters are needed because, while radar is very good at helping the National Weather Service see what's going on in the upper atmosphere, it's unable to detect what's actually happening on the ground because of the curvature of the Earth. Knowing the "ground truth" about a weather event from the location can be the deciding factor to issue a warning.
 
-This GitHub repository prvides public access to software we have developed to support our team and goals.
+This GitHub repository provides public access to software we have developed to support our team and goals.
